@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(22, 22, 22);
+}
+
+.fixo{
+    color: red;
+background-color: black;
+height: 5rem;
+padding: 5px;
+margin: 5px;
+border-radius: 3px;
+align-items: center;
+text-align: center;
+font-size: 40px;
+}
+.botao{
+    height: 30px;
+    width: 70px;
+    background-color: blueviolet;
+    align-items: center;
+    text-align: center;
+}
+.paragrafo{
+    color: beige;
+    align-items: center;
+text-align: center;
+padding: 15px;
+font-size: 20px;
+}
